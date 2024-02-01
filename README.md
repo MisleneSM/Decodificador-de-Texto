@@ -1,7 +1,7 @@
 <h1 align="center"> Decodificador de Texto </h1>
 
 <div align="center">
-#challengeonedecodificador6 <br>
+#challengeonedecodificador6
 Desenvolvido por:
 <br>Mislene Moura - [Linkedin](https://www.linkedin.com/in/mislene-silva-moura-1211531b4//) |
    [Github](https://github.com/MisleneSM)
