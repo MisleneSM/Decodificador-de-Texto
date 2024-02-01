@@ -54,7 +54,7 @@ Por exemplo:
 
 - Um botão que copie o texto criptografado/descriptografado para a área de transferência - ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos.
 
-Para acessar o resultado do projeto e trocar mensagens secretas com outras pessoas basta clicar aqui no [Link](https://mislenesm.github.io/Decodificador-de-Texto/)
+Para acessar o resultado do projeto e trocar mensagens secretas com outras pessoas basta clicar aqui no [Link](https://mislenesm.github.io/Decodificador-de-Texto/) <br>
 #challengeonedecodificador6
 
 ## 2. Objetivos de aprendizagem✅
