@@ -52,7 +52,7 @@ body {
 .inputText {
     width: 260px;
     height: 50px;
-    padding: 5px;
+    padding: 8px;
     font-size: 1rem;
     resize: none;
     border: 0;
@@ -285,7 +285,7 @@ p > a:hover {
     .inputText {
         width: 390px;
         height: 100px;
-        padding: 5px;
+        padding: 15px;
         font-size: 1.5rem;
     }
     
@@ -376,6 +376,7 @@ p > a:hover {
     }
     
     .elementForm {
+        margin-bottom: 50px;
         height: 550px;
         width: 500px;
     }
