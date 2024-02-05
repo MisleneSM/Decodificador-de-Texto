@@ -240,6 +240,7 @@ p > a:hover {
 
     .elementForm {
         width: 350px;
+        margin-bottom: 30px;
     }
 
     .inputForm {
@@ -253,6 +254,11 @@ p > a:hover {
     
     .textTwo {
         font-size: 0.8rem;
+    }
+
+    .footer {
+        position: fixed;
+        bottom: 0;
     }
 }
 
@@ -310,6 +316,7 @@ p > a:hover {
     .elementForm {
         height: 600px;
         width: 400px;
+        margin-bottom: 0px;
     }
     
     .inputForm {
