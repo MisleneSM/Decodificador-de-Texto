@@ -184,7 +184,9 @@ body {
     width: 100%;
     padding: 15px 0;
     background-color: var(--ColorTwo);
+    font-family: sans-serif;
     position: relative;
+    bottom: 0;
 }
 
 p {
